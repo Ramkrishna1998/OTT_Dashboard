@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/OTT_Dashboard/static/css/main.9dcf1528.chunk.css",
+    "main.js": "/OTT_Dashboard/static/js/main.53eb687e.chunk.js",
+    "main.js.map": "/OTT_Dashboard/static/js/main.53eb687e.chunk.js.map",
+    "runtime-main.js": "/OTT_Dashboard/static/js/runtime-main.acd8ee5f.js",
+    "runtime-main.js.map": "/OTT_Dashboard/static/js/runtime-main.acd8ee5f.js.map",
+    "static/css/2.cb705337.chunk.css": "/OTT_Dashboard/static/css/2.cb705337.chunk.css",
+    "static/js/2.24db4594.chunk.js": "/OTT_Dashboard/static/js/2.24db4594.chunk.js",
+    "static/js/2.24db4594.chunk.js.map": "/OTT_Dashboard/static/js/2.24db4594.chunk.js.map",
+    "static/js/3.8078def3.chunk.js": "/OTT_Dashboard/static/js/3.8078def3.chunk.js",
+    "static/js/3.8078def3.chunk.js.map": "/OTT_Dashboard/static/js/3.8078def3.chunk.js.map",
+    "index.html": "/OTT_Dashboard/index.html",
+    "static/css/2.cb705337.chunk.css.map": "/OTT_Dashboard/static/css/2.cb705337.chunk.css.map",
+    "static/css/main.9dcf1528.chunk.css.map": "/OTT_Dashboard/static/css/main.9dcf1528.chunk.css.map",
+    "static/js/2.24db4594.chunk.js.LICENSE.txt": "/OTT_Dashboard/static/js/2.24db4594.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acd8ee5f.js",
+    "static/css/2.cb705337.chunk.css",
+    "static/js/2.24db4594.chunk.js",
+    "static/css/main.9dcf1528.chunk.css",
+    "static/js/main.53eb687e.chunk.js"
+  ]
+}
